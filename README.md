@@ -1,4 +1,4 @@
-# **Seattle Airbnb Data Analysis & Tableau Dashboard**
+# **AirBnB Market Analysis & Revenue Optimization Dashboard**
 
 An end-to-end data analytics project exploring Airbnb listing prices, spatial distribution, bedroom supply, and revenue seasonality across Seattle. This project combines data processing in Google Sheets with interactive visual analytics in Tableau Public.
 
